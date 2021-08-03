@@ -1,0 +1,6 @@
+language: bash
+dist: bionic
+vm:
+  size: small
+script:
+  - 'exit 0'
