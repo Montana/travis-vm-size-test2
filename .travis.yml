@@ -1,6 +1,6 @@
 language: bash
 dist: bionic
 vm:
-  size: small
+  size: large
 script:
   - 'exit 0'
